@@ -1,3 +1,8 @@
 # Student Portfolio
 
-Hi, I am shiwani going to upload this portfolio tommorow and also upload some important kind of notes and pdf files etc.
+Hi, This is student Portfolio.It's coming up tomorrow when i learn HTML and CSS eith Shiwani Live on youtube.
+
+
+For now, I know:
+
+
